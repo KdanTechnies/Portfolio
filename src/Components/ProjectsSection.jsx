@@ -35,7 +35,7 @@ const ProjectsSection = () => {
       title: 'Portfolio Website (This one!)',
       description: 'My personal portfolio showcasing various projects and skills.',
       technologies: ['React', 'CSS3', 'Responsive Design', 'JavaScript'],
-      link: 'https://github.com/yourusername/my-portfolio'
+      link: 'https://portfolio-three-peach-65.vercel.app/'
     },
     {
       title: 'Transcriber App',
